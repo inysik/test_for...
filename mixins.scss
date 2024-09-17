@@ -1,0 +1,16 @@
+@import './variables.css';
+
+
+
+@mixin font(){
+
+
+}
+
+@mixin position($width:1216px, $horizontalPadding:10px) {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: $width;
+    padding-left: $horizontalPadding;
+    padding-right: $horizontalPadding;
+}
