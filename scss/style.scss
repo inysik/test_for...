@@ -768,3 +768,9 @@ swiper-container::part(container) {
     }
     
 }
+
+@media (max-width: 550px) {
+    .form-container-area, .how-it-works__list {
+        grid-template-columns: 1fr;
+    }
+}
