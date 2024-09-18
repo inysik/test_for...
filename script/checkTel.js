@@ -2,7 +2,7 @@ const phoneInput = document.getElementById('phone');
 
 phoneInput.addEventListener('input', function (event) {
   let value = this.value.replace(/\D/g, '');
-  
+   
   if (value[0] === '7') {
     value = value.slice(1);
   }

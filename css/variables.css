@@ -1,0 +1,29 @@
+:root {
+  --black:#191C1F;
+  --darkGray:#5E646A;
+  --gray:#83898F;
+  --midGrey:#C2C8CD;
+  --lightGray:#ECEFF2;
+  --extralightGray:#F6F8FA;
+  --white:#FFFFFF;
+  --dangerous:#F13636;
+  --greenSuccess:#25CD82;
+  --primaryDisabled:#ABCAE6;
+  --primary:#2A6CEA;
+  --primaryHover:#397DFF;
+  --fontFamily:"Graphik LCG";
+  --fontWeight:600;
+  --fontWeight400:400;
+  --fontSizeXXXL:64px;
+  --fontSizeXXL:56px;
+  --fontSizeXL:52px;
+  --fontSizeL:40px;
+  --fontSizeM:32px;
+  --fontSizeSM:28px;
+  --fontSizeS:24px;
+  --fontSizeXS:20px;
+  --fontSizeXSS:18px;
+  --fontSizeXSSS:16px;
+  --swiper-pagination-bottom:0;
+  --swiper-navigation-sides-offset:0;
+}

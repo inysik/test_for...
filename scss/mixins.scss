@@ -1,12 +1,3 @@
-@import './variables.css';
-
-
-
-@mixin font(){
-
-
-}
-
 @mixin position($width:1216px, $horizontalPadding:10px) {
     margin-left: auto;
     margin-right: auto;
